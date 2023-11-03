@@ -1,11 +1,13 @@
-👋 Hi, I'm Marine
+I'm Marine, a Data Analyst with a passion for transforming raw data into stories. I specialize in analyzing intricate datasets, building data-driven strategies, and creating interactive visualizations to convey complex information in an accessible manner.
 
-🚀 Data Analyst
+Check out my [Tableau Portfolio](https://public.tableau.com/app/profile/marine.bauerle/vizzes) to see a selection of my dashboards and visualizations.
 
-🌍 Based in London, UK
+**Skills & Tools**:
+- Languages: Python, SQL, R
+- Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
+- Data Manipulation: Pandas, Numpy
+- Databases: MySQL, PostgreSQL, MongoDB
 
-👨‍💻 I'm passionate about problem-solving, SQL, and creating awesome insights. 
 
-💼 Currently working for a flourishing start-up, Dakko AI.
 
-Let's connect and collaborate on exciting projects!
+🔗 [LinkedIn]([#YourLinkedInProfileLink](https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
