@@ -7,7 +7,3 @@ Check out my [Tableau Portfolio](https://public.tableau.com/app/profile/marine.b
 - Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
 - Data Manipulation: Pandas, Numpy
 - Databases: MySQL, PostgreSQL, MongoDB
-
-
-
-[My LinkedIn](#https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
