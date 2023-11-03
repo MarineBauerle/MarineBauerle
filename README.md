@@ -10,4 +10,4 @@ Check out my [Tableau Portfolio](https://public.tableau.com/app/profile/marine.b
 
 
 
-🔗 [LinkedIn]([#YourLinkedInProfileLink](https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
+[My LinkedIn](#https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
