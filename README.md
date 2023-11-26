@@ -8,4 +8,4 @@ Check out my [Tableau Portfolio](https://public.tableau.com/app/profile/marine.b
 - Data Manipulation: Pandas, Numpy
 - Databases: MySQL, PostgreSQL, MongoDB
 
-[My LinkedIn Profile](https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
+🔗 [My LinkedIn Profile](https://www.linkedin.com/in/marine-bauerl%C3%A9-9853a417a/)
